@@ -1,0 +1,21 @@
+html,
+body {
+    margin: 0px;
+    padding: 4.5em 3em;
+    background: url("https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.wrap{
+ 
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
